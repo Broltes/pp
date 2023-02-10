@@ -1,0 +1,46 @@
+{
+  "_vendor-f2f6c7d8.js": {
+    "file": "assets/vendor-f2f6c7d8.js"
+  },
+  "data-rank/rank-2021.json": {
+    "file": "assets/rank-2021-e0e27ced.js",
+    "isDynamicEntry": true,
+    "src": "data-rank/rank-2021.json"
+  },
+  "data-rank/rank-2022.json": {
+    "file": "assets/rank-2022-8da34090.js",
+    "isDynamicEntry": true,
+    "src": "data-rank/rank-2022.json"
+  },
+  "data-rank/rank-2023.json": {
+    "file": "assets/rank-2023-e374841e.js",
+    "isDynamicEntry": true,
+    "src": "data-rank/rank-2023.json"
+  },
+  "index.css": {
+    "file": "assets/index-53a7c1b6.css",
+    "src": "index.css"
+  },
+  "index.html": {
+    "css": [
+      "assets/index-53a7c1b6.css"
+    ],
+    "dynamicImports": [
+      "node_modules/workbox-window/build/workbox-window.prod.es5.mjs",
+      "data-rank/rank-2021.json",
+      "data-rank/rank-2022.json",
+      "data-rank/rank-2023.json"
+    ],
+    "file": "assets/index-07a43ec2.js",
+    "imports": [
+      "_vendor-f2f6c7d8.js"
+    ],
+    "isEntry": true,
+    "src": "index.html"
+  },
+  "node_modules/workbox-window/build/workbox-window.prod.es5.mjs": {
+    "file": "assets/workbox-window.prod.es5-295a6886.js",
+    "isDynamicEntry": true,
+    "src": "node_modules/workbox-window/build/workbox-window.prod.es5.mjs"
+  }
+}
